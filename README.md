@@ -310,3 +310,7 @@ ls -la /var/lib/vz/template/iso/
 - [ ] Finalização da instalação do Kali Linux
 - [ ] Testes de exploração no Metasploitable2 com detecção via Wazuh
 - [ ] Integração Wazuh → Shuffle para automação de resposta
+
+## 📊 Dashboard visual
+
+![Dashboard da Etapa 1](assets/dashboard-etapa1.png)
